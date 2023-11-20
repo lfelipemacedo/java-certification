@@ -17,7 +17,7 @@ Não estou seguindo o conteúdo do curso, apenas me baseando no conteúdo progra
 11. Java Streams API
 12. Exceptions
 13. Java IO API
-14. Concurrency e Multithreading
+14. [Concurrency e Multithreading](concurrency/README.md)
 15. Open Module Content ??
 16. Annotations
 17. JDBC
